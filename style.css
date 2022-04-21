@@ -1,0 +1,18 @@
+div.container{
+    margin-top: 50px;
+}
+
+#tittle{
+    background-color:rgb(78, 165, 194);
+    margin-bottom: 25px;
+}
+tbody{
+    background-color: lightgray;
+}
+
+img{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
